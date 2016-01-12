@@ -31,8 +31,6 @@ section{
     margin-top: 60px
 }
 
-
-
 .jumbotron p {
     margin-bottom: 40px;
 }
@@ -63,6 +61,14 @@ section#feature ul li{
     font-size: 22px;
     list-style: none;
     line-height: 2.0em;
+}
+
+section#title-bar{
+    height: 80px;
+    padding: 0;
+    margin: 0;
+    background: 1caa98;
+    color: fff;
 }
 
 footer{
